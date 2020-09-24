@@ -1,0 +1,21 @@
+############################# Experience ###################################
+experience:
+  enable : true
+  title : Experience
+  experience_item :
+  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+    title : Academic Laurels
+    content : MSc Data Science for Business Intelligence | University of Leicester, United Kingdom
+
+  - icon : ti-briefcase # themify icon pack : https://themify.me/themify-icons
+    title : Industrial Experience
+    content : A diverse industry experience of 5 Years as a Software Developer at TechMahindra Pvt. Ltd. and as a Validation Specialist at Optel Group.
+    #content: english/blog/Experience.md
+
+  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+    title : Accolades
+    content : IJAFRC 30 | © 2014, IJAFRC All Rights Reserved Voice Recognition Using Artificial Neural Networks.
+
+  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+    title : My mission
+    content : Use Artificial Intelligence  to heal the world and its people.

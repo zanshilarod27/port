@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experiences on My Profile</title>
+    <link>https://zanshilarod27.github.io/port/experience/</link>
+    <description>Recent content in Experiences on My Profile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://zanshilarod27.github.io/port/experience/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Industrial Experience</title>
+      <link>https://zanshilarod27.github.io/port/experience/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zanshilarod27.github.io/port/experience/experience/</guid>
+      <description>April 2017 - August 2019 | Validation Specialist | Optel Group India Pvt. Ltd. Verna, Goa, India</description>
+    </item>
+    
+  </channel>
+</rss>

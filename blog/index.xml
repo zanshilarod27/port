@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on My Profile</title>
+    <link>https://zanshilarod27.github.io/port/blog/</link>
+    <description>Recent content in Blogs on My Profile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://zanshilarod27.github.io/port/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Human motion detection using Artificial Intelligence</title>
+      <link>https://zanshilarod27.github.io/port/blog/project1/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zanshilarod27.github.io/port/blog/project1/</guid>
+      <description>Human motion detection with pretrained Inception and Mobilenet CNN&amp;rsquo;s Click on this LINK to view my Github repo.</description>
+    </item>
+    
+    <item>
+      <title>Industrial Experience</title>
+      <link>https://zanshilarod27.github.io/port/blog/experience/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zanshilarod27.github.io/port/blog/experience/</guid>
+      <description>I have a rich and diverse industry experience of 5 Years as a Software Developer at TechMahindra and as a Validation Specialist (Hardware &amp;amp; Software) at Optel Group, India.</description>
+    </item>
+    
+    <item>
+      <title>Projects - Finance</title>
+      <link>https://zanshilarod27.github.io/port/blog/project2/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zanshilarod27.github.io/port/blog/project2/</guid>
+      <description>Stock Price Prediction - Multiple Linear Regression and Adaline Neural Networks This report discusses the performance and statistics of two models: Multiple Linear Regression and Adaline Neural Network for Stock Price Prediction.</description>
+    </item>
+    
+    <item>
+      <title>Projects - Medical Statistics</title>
+      <link>https://zanshilarod27.github.io/port/blog/project-medical/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zanshilarod27.github.io/port/blog/project-medical/</guid>
+      <description>Statistical Analysis on the Effects of Asthma Drug for Pulmonary function The report gives a statistical insight into the effectiveness of a new Asthma Drug on Pulmonary Function.</description>
+    </item>
+    
+    <item>
+      <title>PUBLICATION</title>
+      <link>https://zanshilarod27.github.io/port/blog/paper/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zanshilarod27.github.io/port/blog/paper/</guid>
+      <description>Voice Recognition Using Artificial Neural Network Below is a brief overview of the research. Click on the link below to look into the details of this research.</description>
+    </item>
+    
+    <item>
+      <title>Was it the smartest presentation for 5 minutes? - BlogTime</title>
+      <link>https://zanshilarod27.github.io/port/blog/ai-a-gift-to-mankind/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zanshilarod27.github.io/port/blog/ai-a-gift-to-mankind/</guid>
+      <description>As my job-hunt continues, in an interview with one of the Big 4 Consulting firms, I had the opportunity to present on Smart Workspaces in 5 minutes.</description>
+    </item>
+    
+  </channel>
+</rss>
